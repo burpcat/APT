@@ -1,6 +1,5 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos,c++,python
-# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,macos,c++,python
+
 
 ### C++ ###
 # Prerequisites
@@ -220,4 +219,3 @@ cython_debug/
 .history
 .ionide
 
-# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos,c++,python
