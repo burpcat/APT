@@ -1,7 +1,7 @@
 
 # APT
 
-This repository contains all the programs which are written when I was under the APT program
+This repository contains all the programs which were written when I was under the APT program
 
 Note : Most of the programs are written in CPP
 
