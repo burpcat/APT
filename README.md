@@ -22,4 +22,3 @@ Note : Most of the programs are written in CPP
 - [LinkedIn📃](https://www.linkedin.com/in/avinasharutla/)
 - [Twitter🕊](https://twitter.com/burpcat_)
 - [Email📬](mailto:codekuramat@gmail.com)
-
