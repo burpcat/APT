@@ -23,6 +23,3 @@ Note : Most of the programs are written in CPP
 - [Twitter🕊](https://twitter.com/burpcat_)
 - [Email📬](mailto:codekuramat@gmail.com)
 
-
-
-
