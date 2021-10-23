@@ -20,5 +20,5 @@ Note : Most of the programs are written in CPP
 ## Reach Out
 
 - [LinkedIn📃](https://www.linkedin.com/in/avinasharutla/)
-- [Twitter🕊](https://twitter.com/burpcat_)
+- [Twitter🕊](https://twitter.com/burpcatweets)
 - [Email📬](mailto:codekuramat@gmail.com)
