@@ -9,4 +9,3 @@ for i in range(int(basic_input)+1):
 
 print(sum)
 
-skfd
