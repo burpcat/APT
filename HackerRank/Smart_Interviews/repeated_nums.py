@@ -1,4 +1,5 @@
-
+# https://www.hackerrank.com/contests/smart-interviews/challenges/si-repeated-numbers
+# Smart Interviews > Repeated Numbers
 
 basic_input = int(input())
 
