@@ -1,9 +1,9 @@
 
 # APT
 
-This repository contains all the programs which were written when I was under the APT program
+This repository acts as a storage for all the practise / competitions problems I solved. Only the ones which passed
+all the testcases are pushed here.
 
-Note : Most of the programs are written in CPP
 
 
 ## Guide
